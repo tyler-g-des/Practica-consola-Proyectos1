@@ -1,0 +1,16 @@
+C:\Users\tyler.diaz\Desktop\Tareas\CapaDatos\bin\Debug\netstandard2.0\CapaDatos.deps.json
+C:\Users\tyler.diaz\Desktop\Tareas\CapaDatos\bin\Debug\netstandard2.0\CapaDatos.dll
+C:\Users\tyler.diaz\Desktop\Tareas\CapaDatos\bin\Debug\netstandard2.0\CapaDatos.pdb
+C:\Users\tyler.diaz\Desktop\Tareas\CapaDatos\obj\Debug\netstandard2.0\CapaDatos.csprojAssemblyReference.cache
+C:\Users\tyler.diaz\Desktop\Tareas\CapaDatos\obj\Debug\netstandard2.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\tyler.diaz\Desktop\Tareas\CapaDatos\obj\Debug\netstandard2.0\CapaDatos.AssemblyInfo.cs
+C:\Users\tyler.diaz\Desktop\Tareas\CapaDatos\obj\Debug\netstandard2.0\CapaDatos.dll
+C:\Users\tyler.diaz\Desktop\Tareas\CapaDatos\obj\Debug\netstandard2.0\CapaDatos.pdb
+C:\Users\tyler.diaz\Desktop\Tareas\ProyectoRestaurante\CapaDatos\bin\Debug\netstandard2.0\CapaDatos.deps.json
+C:\Users\tyler.diaz\Desktop\Tareas\ProyectoRestaurante\CapaDatos\bin\Debug\netstandard2.0\CapaDatos.dll
+C:\Users\tyler.diaz\Desktop\Tareas\ProyectoRestaurante\CapaDatos\bin\Debug\netstandard2.0\CapaDatos.pdb
+C:\Users\tyler.diaz\Desktop\Tareas\ProyectoRestaurante\CapaDatos\obj\Debug\netstandard2.0\CapaDatos.csprojAssemblyReference.cache
+C:\Users\tyler.diaz\Desktop\Tareas\ProyectoRestaurante\CapaDatos\obj\Debug\netstandard2.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\tyler.diaz\Desktop\Tareas\ProyectoRestaurante\CapaDatos\obj\Debug\netstandard2.0\CapaDatos.AssemblyInfo.cs
+C:\Users\tyler.diaz\Desktop\Tareas\ProyectoRestaurante\CapaDatos\obj\Debug\netstandard2.0\CapaDatos.dll
+C:\Users\tyler.diaz\Desktop\Tareas\ProyectoRestaurante\CapaDatos\obj\Debug\netstandard2.0\CapaDatos.pdb

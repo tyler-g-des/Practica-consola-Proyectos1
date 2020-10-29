@@ -1,0 +1,5 @@
+C:\Users\tyler.diaz\Desktop\Tareas\ProyectoRestaurante\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\tyler.diaz\Desktop\Tareas\ProyectoRestaurante\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\tyler.diaz\Desktop\Tareas\ProyectoRestaurante\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\tyler.diaz\Desktop\Tareas\ProyectoRestaurante\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\tyler.diaz\Desktop\Tareas\ProyectoRestaurante\CapaLogica\obj\Debug\CapaLogica.csprojAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\tyler.diaz\Desktop\ahorcadoPractica\bin\Debug\ahorcadoPractica.exe.config
+C:\Users\tyler.diaz\Desktop\ahorcadoPractica\bin\Debug\ahorcadoPractica.exe
+C:\Users\tyler.diaz\Desktop\ahorcadoPractica\bin\Debug\ahorcadoPractica.pdb
+C:\Users\tyler.diaz\Desktop\ahorcadoPractica\obj\Debug\ahorcadoPractica.csprojAssemblyReference.cache
+C:\Users\tyler.diaz\Desktop\ahorcadoPractica\obj\Debug\ahorcadoPractica.Form1.resources
+C:\Users\tyler.diaz\Desktop\ahorcadoPractica\obj\Debug\ahorcadoPractica.Properties.Resources.resources
+C:\Users\tyler.diaz\Desktop\ahorcadoPractica\obj\Debug\ahorcadoPractica.csproj.GenerateResource.cache
+C:\Users\tyler.diaz\Desktop\ahorcadoPractica\obj\Debug\ahorcadoPractica.exe
+C:\Users\tyler.diaz\Desktop\ahorcadoPractica\obj\Debug\ahorcadoPractica.pdb

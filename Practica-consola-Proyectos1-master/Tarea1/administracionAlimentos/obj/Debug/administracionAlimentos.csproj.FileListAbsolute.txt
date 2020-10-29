@@ -1,0 +1,6 @@
+C:\Users\tyler.diaz\Desktop\administracionAlimentos\bin\Debug\administracionAlimentos.exe.config
+C:\Users\tyler.diaz\Desktop\administracionAlimentos\bin\Debug\administracionAlimentos.exe
+C:\Users\tyler.diaz\Desktop\administracionAlimentos\bin\Debug\administracionAlimentos.pdb
+C:\Users\tyler.diaz\Desktop\administracionAlimentos\obj\Debug\administracionAlimentos.csprojAssemblyReference.cache
+C:\Users\tyler.diaz\Desktop\administracionAlimentos\obj\Debug\administracionAlimentos.exe
+C:\Users\tyler.diaz\Desktop\administracionAlimentos\obj\Debug\administracionAlimentos.pdb

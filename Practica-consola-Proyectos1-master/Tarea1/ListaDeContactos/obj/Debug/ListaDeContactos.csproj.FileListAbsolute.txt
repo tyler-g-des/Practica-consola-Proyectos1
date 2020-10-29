@@ -1,0 +1,6 @@
+C:\Users\tyler.diaz\Desktop\Tarea\ListaDeContactos\bin\Debug\ListaDeContactos.exe.config
+C:\Users\tyler.diaz\Desktop\Tarea\ListaDeContactos\bin\Debug\ListaDeContactos.exe
+C:\Users\tyler.diaz\Desktop\Tarea\ListaDeContactos\bin\Debug\ListaDeContactos.pdb
+C:\Users\tyler.diaz\Desktop\Tarea\ListaDeContactos\obj\Debug\ListaDeContactos.csprojAssemblyReference.cache
+C:\Users\tyler.diaz\Desktop\Tarea\ListaDeContactos\obj\Debug\ListaDeContactos.exe
+C:\Users\tyler.diaz\Desktop\Tarea\ListaDeContactos\obj\Debug\ListaDeContactos.pdb

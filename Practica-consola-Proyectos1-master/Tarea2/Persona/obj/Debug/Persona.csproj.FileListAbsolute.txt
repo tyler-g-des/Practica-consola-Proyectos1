@@ -1,0 +1,6 @@
+C:\Users\tyler.diaz\Desktop\Tarea1\Persona\bin\Debug\Persona.exe.config
+C:\Users\tyler.diaz\Desktop\Tarea1\Persona\bin\Debug\Persona.exe
+C:\Users\tyler.diaz\Desktop\Tarea1\Persona\bin\Debug\Persona.pdb
+C:\Users\tyler.diaz\Desktop\Tarea1\Persona\obj\Debug\Persona.csprojAssemblyReference.cache
+C:\Users\tyler.diaz\Desktop\Tarea1\Persona\obj\Debug\Persona.exe
+C:\Users\tyler.diaz\Desktop\Tarea1\Persona\obj\Debug\Persona.pdb

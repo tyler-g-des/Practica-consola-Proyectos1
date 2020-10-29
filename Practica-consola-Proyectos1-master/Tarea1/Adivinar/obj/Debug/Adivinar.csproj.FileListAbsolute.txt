@@ -1,0 +1,12 @@
+C:\Users\tyler.diaz\Desktop\Tarea\Adivinar\bin\Debug\Adivinar.exe.config
+C:\Users\tyler.diaz\Desktop\Tarea\Adivinar\bin\Debug\Adivinar.exe
+C:\Users\tyler.diaz\Desktop\Tarea\Adivinar\bin\Debug\Adivinar.pdb
+C:\Users\tyler.diaz\Desktop\Tarea\Adivinar\obj\Debug\Adivinar.csprojAssemblyReference.cache
+C:\Users\tyler.diaz\Desktop\Tarea\Adivinar\obj\Debug\Adivinar.exe
+C:\Users\tyler.diaz\Desktop\Tarea\Adivinar\obj\Debug\Adivinar.pdb
+C:\Users\tyler.diaz\Desktop\Tareas\Tarea1\Adivinar\bin\Debug\Adivinar.exe.config
+C:\Users\tyler.diaz\Desktop\Tareas\Tarea1\Adivinar\bin\Debug\Adivinar.exe
+C:\Users\tyler.diaz\Desktop\Tareas\Tarea1\Adivinar\bin\Debug\Adivinar.pdb
+C:\Users\tyler.diaz\Desktop\Tareas\Tarea1\Adivinar\obj\Debug\Adivinar.csprojAssemblyReference.cache
+C:\Users\tyler.diaz\Desktop\Tareas\Tarea1\Adivinar\obj\Debug\Adivinar.exe
+C:\Users\tyler.diaz\Desktop\Tareas\Tarea1\Adivinar\obj\Debug\Adivinar.pdb

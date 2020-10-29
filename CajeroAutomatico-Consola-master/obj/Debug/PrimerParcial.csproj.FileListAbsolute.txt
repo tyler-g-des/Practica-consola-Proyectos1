@@ -1,0 +1,6 @@
+C:\Users\tyler.diaz\Desktop\PrimerParcial\bin\Debug\PrimerParcial.exe.config
+C:\Users\tyler.diaz\Desktop\PrimerParcial\bin\Debug\PrimerParcial.exe
+C:\Users\tyler.diaz\Desktop\PrimerParcial\bin\Debug\PrimerParcial.pdb
+C:\Users\tyler.diaz\Desktop\PrimerParcial\obj\Debug\PrimerParcial.csprojAssemblyReference.cache
+C:\Users\tyler.diaz\Desktop\PrimerParcial\obj\Debug\PrimerParcial.exe
+C:\Users\tyler.diaz\Desktop\PrimerParcial\obj\Debug\PrimerParcial.pdb

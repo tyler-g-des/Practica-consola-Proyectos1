@@ -1,0 +1,6 @@
+C:\Users\tyler.diaz\Desktop\Tarea\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\tyler.diaz\Desktop\Tarea\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\tyler.diaz\Desktop\Tarea\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\tyler.diaz\Desktop\Tarea\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\tyler.diaz\Desktop\Tarea\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\tyler.diaz\Desktop\Tarea\Calculadora\obj\Debug\Calculadora.pdb
